@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Sendo o 2º desafio da Trilha, o objetivo é criar uma Página Web no formato Cardápio. 
 
-- [Visite o projeto online](https://victoriamagalhaes.github.io/desafio-nlwSetup/)
+- [Visite o projeto online](https://victoriamagalhaes.github.io/elas_na_tech_atv2/)
 
 ## :memo: Licença
 
